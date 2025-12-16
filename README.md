@@ -1,6 +1,6 @@
 # Utility App
 
-O **Utility App** é um aplicativo mobile desenvolvido em **React Native com Expo** voltado para facilitar o dia a dia do usuário oferecendo diversas ferramentas úteis em um só lugar. 
+O **Utility App** é um aplicativo mobile desenvolvido em `React Native com Expo` voltado para facilitar o dia a dia do usuário oferecendo diversas ferramentas úteis em um só lugar. 
 O projeto foi desenvolvido como trabalho da disciplina **Programação para Dispositivos Móveis**.
 
 ## 📱 Objetivo do Aplicativo
@@ -73,7 +73,6 @@ O projeto foi desenvolvido de forma colaborativa, com cada integrante responsáv
 
 * Base do aplicativo (estrutura geral)
 * Conversor de Velocidade
-* Mesclagem das 'Branchs' no Git
 
 ### **Thiago Deones Jesus Dutra Alves**
 
