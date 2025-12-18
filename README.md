@@ -24,19 +24,19 @@ O aplicativo continua em expansão e pode receber novas funcionalidades futurame
 O projeto segue uma estrutura modular, separando componentes, serviços, entidades e telas:
 
 ```
-app/
-  _layout.jsx
-  index.jsx
-  components/
-    bottomMenu.jsx
-    topMenu.jsx
-  entities/
-    xxxEntity.js
-  services/
-    xxxService.js
-  view/
-    xxxFormView.jsx
-    xxxListView.jsx
+│   app/
+│   ├── _layout.jsx
+│   ├── index.jsx
+│   ├── components/
+│   │   ├── bottomMenu.jsx
+│   │   ├── topMenu.jsx
+│   ├── entities/
+│   │   ├── xxxEntity.js
+│   ├── services/
+│   │   ├── xxxService.js
+│   ├── view/
+│   │   ├── xxxFormView.jsx
+│   │   ├── xxxListView.jsx
 ```
 
 Cada funcionalidade é organizada em uma View própria e, quando necessário, possui uma Entity e um Service responsável pela lógica de processamento e persistência.
