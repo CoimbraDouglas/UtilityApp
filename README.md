@@ -126,6 +126,6 @@ npx expo start
 
 ## 📌 Considerações Finais
 
-O Utility App foi desenvolvido com foco em organização, boas práticas e modularização. O projeto pode ser expandido com novas ferramentas e melhorias visuais.
+O `Utility App` foi desenvolvido com foco em organização, boas práticas e modularização. O projeto pode ser expandido com novas ferramentas e melhorias visuais.
 
 Sinta-se livre para contribuir ou adaptar o código!
