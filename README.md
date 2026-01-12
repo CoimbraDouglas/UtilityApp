@@ -39,7 +39,7 @@ O projeto segue uma estrutura modular, separando componentes, serviços, entidad
 │   │   ├── xxxListView.jsx
 ```
 
-Cada funcionalidade é organizada em uma View própria e, quando necessário, possui uma Entity e um Service responsável pela lógica de processamento e persistência.
+Cada funcionalidade é organizada em uma `View` própria e, quando necessário, possui uma Entity e um Service responsável pela lógica de processamento e persistência.
 
 ---
 
