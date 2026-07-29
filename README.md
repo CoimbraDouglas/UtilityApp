@@ -1,6 +1,7 @@
 # Utility App
 
 O **Utility App** é um aplicativo mobile desenvolvido em `React Native com Expo` voltado para facilitar o dia a dia do usuário oferecendo diversas ferramentas úteis em um só lugar. 
+
 O projeto foi desenvolvido como trabalho da disciplina **Programação para Dispositivos Móveis**.
 
 ## 📱 Objetivo do Aplicativo
@@ -15,7 +16,7 @@ O objetivo do Utility App é reunir funcionalidades essenciais que auxiliam o us
 * Cronômetro
 * Calculadora de IMC
 
-O aplicativo continua em expansão e pode receber novas funcionalidades futuramente.
+O aplicativo é expansivo e pode receber novas funcionalidades futuramente.
 
 ---
 
